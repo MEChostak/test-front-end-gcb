@@ -21,7 +21,7 @@ const validationPost = yup
   .required();
 
 const Form = () => {
-  const [cookies, setCookie] = useCookies(["data"]);
+  const [setCookie] = useCookies(["data"]);
 
   const {
     register,
