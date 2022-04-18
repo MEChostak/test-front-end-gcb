@@ -944,10 +944,9 @@ export const FormWrapper = styled.div`
       div {
         display: flex;
         flex-direction: column;
-        // background-color: red;
 
         input {
-          height: 35px;
+          height: 40px;
           width: 90%;
           background: #f7fbfc;
           border: 1.5px solid #cacaca;
