@@ -9,8 +9,8 @@ const Footer = () => {
                 <p>© Copyrights 2019 Stack. All Rights Reserved.</p>
             </div>
             <div className="links">
-                <a href="#t">Privacy Policy</a>
-                <a href="#t">Terms and Conditions</a>
+                <a href="https://www.magsonchostak.com/">Privacy Policy</a>
+                <a href="https://www.magsonchostak.com/">Terms and Conditions</a>
             </div>
         </FooterWrapper>
     )
